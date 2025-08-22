@@ -1,4 +1,4 @@
-body{
+ body{
     background-color: gainsboro;
 }
 .parent{
@@ -62,7 +62,9 @@ body{
     background-color: rgb(200 220 255);
     border-style: none;
     margin: 0px 110px;
+    
 }
+
 .read:hover{
     background-color: rgb(198, 245, 255);
 }
